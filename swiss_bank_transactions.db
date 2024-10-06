@@ -998,3 +998,5 @@
 2023-01-30T13:38:00,transactions,_tag_location,Basel,_tag_account_id,3366,_tag_currency,EUR,_tag_transaction_type,transfer,_field_amount,3293.19
 2023-02-27T15:18:00,transactions,_tag_location,Bern,_tag_account_id,2738,_tag_currency,USD,_tag_transaction_type,transfer,_field_amount,4777.21
 2023-02-27T13:52:00,transactions,_tag_location,Geneva,_tag_account_id,3072,_tag_currency,EUR,_tag_transaction_type,transfer,_field_amount,1182.07
+2024-01-01T12:00:00,_default,_tag_location,Winterthur,_tag_account_id,1234,_tag_currency,CHF,_tag_transaction_type,deposit,_field_amount,1000.0
+2024-01-02T12:00:00,_default,_tag_location,Winterthur,_tag_account_id,1234,_tag_currency,CHF,_tag_transaction_type,deposit,_field_amount,2000.0
